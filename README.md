@@ -1,2 +1,2 @@
 # Fizzbuzz
-Fizzbuzz in Engine ( My Own Language )
+Fizzbuzz built in Engine ( My Own Programming Language )
